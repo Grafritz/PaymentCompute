@@ -1,0 +1,15 @@
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Persistence\bin\Debug\netcoreapp3.1\Paycompute.Entity.dll
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Persistence\obj\Debug\netcoreapp3.1\Paycompute.Persistence.csprojAssemblyReference.cache
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Persistence\obj\Debug\netcoreapp3.1\Paycompute.Persistence.AssemblyInfoInputs.cache
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Persistence\obj\Debug\netcoreapp3.1\Paycompute.Persistence.AssemblyInfo.cs
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Persistence\bin\Debug\netcoreapp3.1\Paycompute.Persistence.deps.json
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Persistence\bin\Debug\netcoreapp3.1\Paycompute.Persistence.runtimeconfig.json
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Persistence\bin\Debug\netcoreapp3.1\Paycompute.Persistence.runtimeconfig.dev.json
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Persistence\bin\Debug\netcoreapp3.1\Paycompute.Persistence.dll
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Persistence\bin\Debug\netcoreapp3.1\Paycompute.Persistence.pdb
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Persistence\bin\Debug\netcoreapp3.1\Paycompute.Entity.pdb
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Persistence\obj\Debug\netcoreapp3.1\Paycompute.Persistence.csproj.CoreCompileInputs.cache
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Persistence\obj\Debug\netcoreapp3.1\Paycompute.Persistence.csproj.CopyComplete
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Persistence\obj\Debug\netcoreapp3.1\Paycompute.Persistence.dll
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Persistence\obj\Debug\netcoreapp3.1\Paycompute.Persistence.pdb
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Persistence\obj\Debug\netcoreapp3.1\Paycompute.Persistence.genruntimeconfig.cache

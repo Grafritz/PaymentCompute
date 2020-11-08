@@ -1,0 +1,14 @@
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Services.deps.json
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Services.dll
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Services.pdb
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Entity.dll
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Persistence.dll
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Entity.pdb
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Services\bin\Debug\netcoreapp3.1\Paycompute.Persistence.pdb
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.csprojAssemblyReference.cache
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.csproj.CoreCompileInputs.cache
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.AssemblyInfoInputs.cache
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.AssemblyInfo.cs
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.csproj.CopyComplete
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.dll
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Services\obj\Debug\netcoreapp3.1\Paycompute.Services.pdb

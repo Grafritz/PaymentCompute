@@ -1,0 +1,9 @@
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Entity\bin\Debug\netcoreapp3.1\Paycompute.Entity.deps.json
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Entity\bin\Debug\netcoreapp3.1\Paycompute.Entity.dll
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Entity\bin\Debug\netcoreapp3.1\Paycompute.Entity.pdb
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.csprojAssemblyReference.cache
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.csproj.CoreCompileInputs.cache
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.AssemblyInfoInputs.cache
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.AssemblyInfo.cs
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.dll
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.pdb
