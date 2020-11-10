@@ -12,6 +12,8 @@ using Paycompute.Persistence;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Paycompute.Services;
+using Paycompute.Services.Implementation;
 
 namespace Paycompute
 {
@@ -34,6 +36,8 @@ namespace Paycompute
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
             services.AddRazorPages();
+
+            services.AddScoped<IEmployeeService, EmployeeService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
