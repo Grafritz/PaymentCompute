@@ -96,3 +96,5 @@ C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycom
 C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.dll
 C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.pdb
 C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.genruntimeconfig.cache
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\_Travaux\JFD\WEB-Project\UdemyCours\Buildind_an_Entreprise_Application\Paycompute\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
